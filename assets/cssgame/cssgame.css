@@ -1,0 +1,39 @@
+body{
+    background-color:paleturquoise;
+}
+.card-text{
+    font-weight: 700;
+    font-size: 28pt;
+
+}
+.card{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.card img{
+    height: 225px;
+}
+
+.content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content p{
+    font-weight: 800;
+    font-size: 30pt;
+    margin-top: 10px;
+}
+/* .page{
+   display: flex;
+   justify-content: center;
+   margin-left: 25px;
+} */
+.baju{
+    width: 700px;
+    height: 400px;
+}
+.play{
+    height: 75px;
+    width: 75px;
+}
